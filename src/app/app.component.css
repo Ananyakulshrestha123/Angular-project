@@ -1,0 +1,14 @@
+#mydiv {
+  background-color: red;
+  color: green;
+  padding: 30;
+  margin: 30;
+  border: 20;
+  dependencies:{}
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
